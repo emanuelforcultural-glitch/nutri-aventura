@@ -1,0 +1,6 @@
+{
+  "name": "Nutri Aventura",
+  "description": "Prototipo de aplicación móvil para alimentación infantil inteligente, con retos, recompensas y consejos para padres.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
